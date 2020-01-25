@@ -1,7 +1,7 @@
 # RiboPrueba
 Hola! La siguiente webApp es un "Random Pokedex" de la primera generación de Pokémon. 
 
-La cual se encuentra en "Pokimons.html"
+La webApp se encuentra en "Pokimons.html"
 
 En "Pokimons" saldrá un recuadro en donde el usuario escribirá un valor mayor a 1 y menor a 151. (El número máximo de pokémones en esta generación es 151)
 
